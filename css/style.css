@@ -410,7 +410,7 @@ select.form-control:not([size]):not([multiple]) {
     background-color: #47a87c;
     text-align: center;
     padding: 15px 0px;
-    border-radius: 45px;
+    border-radius: 60px;
 }
 
 .Search_bt a:hover {
