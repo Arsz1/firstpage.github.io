@@ -303,6 +303,7 @@ button {
 .call_text{
     text-align: right;
     text-decoration: underline;
+    float: right;
     font-size: 30px;
     color: #fff;
 }
@@ -316,6 +317,7 @@ button {
 .call_text1{
     text-align: left;
     text-decoration: underline;
+    float: left;
     font-size: 30px;
     color: #fff;
 }
