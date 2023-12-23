@@ -409,7 +409,7 @@ select.form-control:not([size]):not([multiple]) {
     color: #fff;
     background-color: #47a87c;
     text-align: center;
-    padding: 15px 0px;
+    padding: 20px 10px;
     border-radius: 60px;
 }
 
