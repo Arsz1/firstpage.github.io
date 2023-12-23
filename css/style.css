@@ -327,7 +327,7 @@ button {
     width: 100%;
     float: left;
     font-size: 80px;
-    padding-bottom: 50px;
+    padding-bottom: 10px;
     text-align: center;
     color: #fff;
 }
@@ -403,7 +403,7 @@ select.form-control:not([size]):not([multiple]) {
 .Search_bt a {
     width: 100%;
     float: left;
-    font-size: 25px;
+    font-size: 22px;
     color: #fff;
     background-color: #47a87c;
     text-align: center;
