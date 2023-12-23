@@ -312,6 +312,14 @@ button {
 .call_text a:hover{
     color: #47a87c;
 }
+
+.call_text1{
+    text-align: left;
+    text-decoration: underline;
+    font-size: 30px;
+    color: #fff;
+}
+
 .banner_section {
     width: 100%;
     float: left;
