@@ -392,13 +392,13 @@ select.form-control:not([size]):not([multiple]) {
     background-position: 96% center;
 }
 .start_bt {
-    width: 20%;
+    width: 40%;
     margin: 0 auto;
     text-align: center;
 }
 .Search_bt {
     width: 150%;
-    float: left;
+    float: right;
     margin: 20px 0px 20px 0px;
 }
 .Search_bt a {
